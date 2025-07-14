@@ -17,7 +17,8 @@ Test set: [2](https://drive.google.com/file/d/1q1k6JJgVH3ZkHWMg2zPtrZak9jRP6ggG/
 
 
 ## Cofe for TMC
-We provide the code for CIFAR10/100, DVS-CIFAR10, N-Caltech101 and ImageNet. TMC training: execute `bash main.sh`.
+We provide the code for CIFAR10/100, DVS-CIFAR10, N-Caltech101 and ImageNet. 
+TMC training: execute `bash main.sh`.
 
 ## Code Reference
 Our code is developed based on the code from [Shikuang Deng, Yuhang Li, Shanghang Zhang, and Shi Gu. Temporal efficient training of spiking neural network via gradient re-weighting. arXiv preprint arXiv:2202.11946, 2022.].
