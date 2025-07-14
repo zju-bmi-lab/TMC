@@ -7,7 +7,7 @@ The Following Setup is tested and it is working:
  * Pytorch>=1.9.0
  * Cuda>=10.2
 
- ## Dataset Preparation for CIFAR10/100, ImageNet and N-Caltech101.
+ ## Dataset Preparation for CIFAR10/100, ImageNet and N-Caltech101
 To proceed, please download the CIFAR10/100, ImageNet and N-Caltech101 datasets on your own.
 
 ## Dataset Preparation for DVS-CIFAR10
