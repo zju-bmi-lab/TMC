@@ -1,7 +1,7 @@
 # Training High Performance Spiking Neural Network by Temporal Model Calibration (TMC)
 This repo contains source codes for the ICML 2025 paper Training High Performance Spiking Neural Network by Temporal Model Calibration. 
 
-## Prerequisites
+## Requirements
 The Following Setup is tested and it is working:
  * Python>=3.5
  * Pytorch>=1.9.0
